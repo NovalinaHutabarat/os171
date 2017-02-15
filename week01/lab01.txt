@@ -20,3 +20,5 @@ drwxr-xr-x  2 novalina.hutabarat StafCS 4096 Feb 15 15:02 week09
 drwxr-xr-x  2 novalina.hutabarat StafCS 4096 Feb 15 15:02 week10
 drwxr-xr-x  2 novalina.hutabarat StafCS 4096 Feb 15 15:04 xtra
 /home/fasilkom/mahasiswa/n/novalina.hutabarat/os171/week01
+Today is 15 Feb 2017 at 16:45:04
+Today is 15 Feb 2017 at 16:49:21
