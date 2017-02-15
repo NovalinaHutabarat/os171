@@ -1,0 +1,7 @@
+Deskripsi OS week 01:
+  Membuat 15 folder yaitu week00 - week10 dan log, key xra dan sandbox
+  Mengisi folder tersebut dengan file dummy
+  Mengisi week01 dengan file berisi deskripsi kegiatan yang dilakukan selama week00 dan week01
+  Melakukan pull untuk menarik perubahan
+  Melakukan push dengan commit untuk menyimpan semua perubahan file atau direktori
+
