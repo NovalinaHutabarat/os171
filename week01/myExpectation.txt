@@ -1,2 +1,3 @@
 #NovalinaHutabarat
-Expectation : Lulus mata kuliah OS dengan nilai yang terbaik sesuai dengan usahayang diberikan
+Expectation : Lulus mata kuliah OS dengan nilai yang terbaik sesuai dengan usaha yang diberikan
+              Dapat mengikuti kuliah dengan baik
