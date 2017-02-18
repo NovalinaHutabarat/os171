@@ -1,0 +1,5 @@
+w01-170214-19-LR-About: Operating System Structure From: Lecturer
+w01-170214-19-LR-About: Hak Kekayaan Intelektual From: Lecturer
+w01-170214-20-LR-About: Shell Scripting From: Lecturer
+w01-170214-20-PS-About: Simple Scripting
+w01-170214-21-PS- Task about scripting: make function 'haritanggal' and 'durasi'w01-170215-14-PS- Doing Lab Session [Task01] CLI, GIT, and Scripting
