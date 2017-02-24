@@ -1,0 +1,9 @@
+w02-170221-19-LR-About: Protection From: Lecturer
+w02-170221-19-LR-About: Security From: Lecturer
+w02-170221-20-LR-About: Security From: Lecturer
+w02-170221-20-LR-About: Answer the question about Protection and Security
+w02-170221-21-LR- See the example of C Program From: Lecturer
+w02-170224-22-PS- Doing Lab Session [Task 2] C, Sign and Encryption
+w02-170224-22-PS- Doing Lab Session [Task 2] C, Sign and Encryption
+w02-170225-23-PS- Continue doing Lab Session (trying C program and doing exercise)
+w02-170225-23-PS- Continue doing LAb Session (Encryption and Digital Signature using GnuPG)
