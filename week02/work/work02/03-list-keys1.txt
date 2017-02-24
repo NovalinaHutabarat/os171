@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/n/novalina.hutabarat/.gnupg/pubring.gpg
+----------------------------------------------------------------
+pub   4096R/3A4E6DF3 2017-02-24 [expires: 2017-08-23]
+uid                  Novalina Hutabarat (studying OS is ez!) <novalina.hutabarat@ui.ac.id>
+sub   4096R/816C550D 2017-02-24 [expires: 2017-08-23]
+

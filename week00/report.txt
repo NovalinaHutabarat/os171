@@ -1,0 +1,6 @@
+"#Novalina_Hutabarat"
+Week 00:
+create repository
+mendaftarkan repository
+menunggu konfirmasi paling lama 24 jam apakah sudah terdaftar atau tidak
+menoca koneksi ke server badak.cs.ui.ac.id melalui kawung.cs.ui.ac.id

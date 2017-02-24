@@ -1,0 +1,10 @@
+total 36
+drwx--x--x  4 novalina.hutabarat StafCS 4096 Feb 24 23:22 .
+drwxr-xr-x 14 root               root   4096 Feb 15 01:19 ..
+-rw-r--r--  1 novalina.hutabarat StafCS 1612 Feb 24 23:16 00-toc.txt
+-rw-r--r--  1 novalina.hutabarat StafCS 3158 Feb 24 23:21 01-public-osteam.txt
+-rw-r--r--  1 novalina.hutabarat StafCS    0 Feb 24 23:22 02-ls-al.txt
+-rw-------  1 novalina.hutabarat StafCS 2041 Feb 24 23:07 .bash_history
+drwxr-xr-x 18 novalina.hutabarat StafCS 4096 Feb 15 16:22 os171
+-rw-------  1 novalina.hutabarat StafCS 4658 Feb 18 11:23 .viminfo
+drwxr-xr-x  3 novalina.hutabarat StafCS 4096 Feb 24 23:02 work
