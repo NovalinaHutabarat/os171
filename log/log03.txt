@@ -1,0 +1,15 @@
+w03-170228-19-LR-About: Quiz1 From: Lecturer
+w03-170228-19-LR-About: BIOS, INIT From: Lecturer
+w03-170228-21-LR-About: Install Debian using emulator Virtual Box From: Lecturer
+w03-170303-22-PS- Doing Lab Session [Task 1] Explanation about BOOT
+w03-170303-22-PS- Doing Lab Session [Task 2] Explanation order of event when a linux computer start up
+w03-170303-23-PS- Continue Lab Session to explain what is the meaning of syntax /etc/init.d/sudo start
+w03-170304-12-PS- Continue Lab Session push the task
+
+
+
+
+
+
+
+
