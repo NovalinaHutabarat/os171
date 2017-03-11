@@ -1,0 +1,12 @@
+w04-170307-19-LR-About: Addressing From : Lecturer
+w04-170307-19-LR-About: Addressing From : Lecturer
+w04-170307-20-LR-About: Pointer    From : Lecturer
+w04-170307-20-LR-About: Input/Output From : Lecturer
+w04-170307-21-LR-About: Input/Output From : Trying make program pointer
+w04-170311-10-PS- Doing Lab Session [Task 1] Pointer
+w04-170311-10-PS- Doing Lab Session [Task 2] Input/Outpur
+w04-170311-11-PS- Continue Lab Session answer question 1 (searching and answer question)
+w04-170311-11-PS- Continue Lab Session answer question 2 (searching and answer question)
+w04-170311-12-PS- Continue Lab Session answer question 3 (searching and answer question)
+w04-170311-12-PS- Continue Lab Session complete all taks
+w04-170311-13-PS- Continue Lab Session commit the task and log
