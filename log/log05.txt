@@ -1,0 +1,9 @@
+
+w05-170314-19-LR-About: Memory From : Lecturer
+w05-170314-19-LR-About: Menory From : Lecturer
+w05-170314-20-LR-About: Memory From : Lecturer
+w05-170314-20-LR-About: Quiz2 From : Lecturer
+w05-170314-21-LR-About: Quiz2 From : Lecturer
+w05-170318-10-PS- Doing Lab Session Memory
+w05-170318-10-PS- Doing Lab Session Memory
+w05-170318-11-PS- Continue Lab Session answer question (explain programs on 06-memory.c)
