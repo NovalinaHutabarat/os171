@@ -7,5 +7,5 @@ w06-170411-21-LR-About: Threat From : Lecturer
 w06-170415-00-PS- Doing Lab Session Process
 w06-170415-00-PS- Doing Lab Session Process
 w06-170415-01-PS- Continue Lab Session answer question (answer in file lab06.txt question number 1)
-w06-170415-10-PS- Continue Lab Session answer question (complete program on 11-fork.c and save the result on result.txt)
-w06-170415-10-PS- Continue Lab Session answer question (answer in file lab06.txt question number 2)
+w06-170415-01-PS- Continue Lab Session answer question (complete program on 11-fork.c and save the result on result.txt)
+w06-170415-02-PS- Continue Lab Session answer question (answer in file lab06.txt question number 2)
