@@ -1,0 +1,10 @@
+w07-170418-19-LR-About: Synchronization From : Lecturer
+w07-170418-20-LR-About: Synchronization Exercise From : Lecturer
+w07-170418-20-LR-About: Synchronization Case From : Lecturer
+w07-170418-21-LR-About: Synchronization Example From : Lecturer
+w07-170419-00-PS- Doing Lab Session Process
+w07-170419-00-PS- Doing Lab Session Process
+w07-170421-12-PS- Continue Lab Session answer question (answer question an write into file lab07.txt)
+w07-170421-12-PS- Continue Lab Session answer question (continue answer question an write into file lab07.txt)
+w07-170421-13-PS- Continue Lab Session complete program on 50-readwrite.c file
+w07-170421-13-PS- Continue Lab Session complete program on 50-readwrite.c file
